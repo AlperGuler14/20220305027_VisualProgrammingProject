@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\20220305027\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\InventoryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\InventoryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\AnalysisForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\analysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\analysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\SalesHistoryForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\SalesHistoryForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\saleshistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\saleshistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\AnalysisForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20220305027\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.resx",
+              "RelativeDocumentMoniker": "20220305027\\Form1.resx",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.resx",
+              "RelativeToolTip": "20220305027\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-26T08:55:40.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\MainForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\MainForm.cs",
+              "RelativeToolTip": "20220305027\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:20:33.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\MainForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "20220305027\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:20:31.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalysisForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\AnalysisForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.cs [Design]",
+              "RelativeToolTip": "20220305027\\AnalysisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:05:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "20220305027\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AppDbContext.cs",
+              "RelativeToolTip": "20220305027\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:43:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\SalesHistoryForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\SalesHistoryForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\SalesHistoryForm.cs",
+              "RelativeToolTip": "20220305027\\SalesHistoryForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:40:43.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesHistoryForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\SalesHistoryForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\SalesHistoryForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\SalesHistoryForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "20220305027\\SalesHistoryForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:40:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "20220305027\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\InventoryManager.cs",
+              "RelativeToolTip": "20220305027\\InventoryManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:34:16.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalysisForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.Designer.cs",
+              "RelativeDocumentMoniker": "20220305027\\AnalysisForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.Designer.cs",
+              "RelativeToolTip": "20220305027\\AnalysisForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:05:20.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalysisForm.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.cs",
+              "RelativeDocumentMoniker": "20220305027\\AnalysisForm.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\AnalysisForm.cs",
+              "RelativeToolTip": "20220305027\\AnalysisForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:29:56.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.cs",
+              "RelativeDocumentMoniker": "20220305027\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.cs",
+              "RelativeToolTip": "20220305027\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:48:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.cs",
+              "RelativeDocumentMoniker": "20220305027\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "20220305027\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T07:46:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "20220305027\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Form1.Designer.cs",
+              "RelativeToolTip": "20220305027\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:48:54.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Product.cs",
+              "RelativeDocumentMoniker": "20220305027\\Product.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Product.cs",
+              "RelativeToolTip": "20220305027\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:41:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Sale.cs",
+              "RelativeDocumentMoniker": "20220305027\\Sale.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\20220305027\\20220305027\\Sale.cs",
+              "RelativeToolTip": "20220305027\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:42:10.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
